@@ -1,4 +1,4 @@
-# Verteilerplatine mit klassischen "DIN"-Buchsen und der neue RJ45 Buchsen
+# Verteilerplatine mit klassischen "DIN"-Buchsen und den neuen RJ45 Buchsen
 
 mehr dazu bei <a href="http://http://opensx.net/projekte/basisplatine/rj45/"> OpenSX.net</a> 
 
