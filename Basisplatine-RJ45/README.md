@@ -2,7 +2,7 @@
 
 Design Files für die <a href="http://http://opensx.net/projekte/basisplatine/rj45/"> OpenSX Basisplatine mit RJ45 Buchsen</a> - mehr dazu bei <a href="http://http://opensx.net/projekte/basisplatine/rj45/"> OpenSX.net</a> 
 
-
+![Foto Basisplatine RJ45](basis-rj45-1.1.jpg)
 
 ![OSH Logo](../oshw-logo-100-px.png)
 
