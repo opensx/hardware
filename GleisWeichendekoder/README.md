@@ -1,6 +1,6 @@
-# Verteilerplatine mit klassischen "DIN"-Buchsen und den neuen RJ45 Buchsen
+# Weichendekoder für den direkten Anschluss ans Gleis 
 
-mehr dazu bei <a href="http://opensx.net/projekte/basisplatine/rj45/"> OpenSX.net</a> 
+Dies ist ein Weichendekoder zum direkten Einbau z.B. in das "C-Gleis", mehr dazu bei <a href="http://opensx.net/projekte/funktionsdekoder/gleis-wdec/"> Gleis-Weichendekoder auf opensx.net</a> .
 
 
 ![OSH Logo](../oshw-logo-100-px.png)

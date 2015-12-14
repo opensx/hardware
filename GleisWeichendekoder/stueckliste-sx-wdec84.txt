@@ -1,0 +1,25 @@
+Stueckliste
+
+(sx-wdec84.brd at 13.12.15)
+
+
+Part         Wert                Package            Bemerkung                Reichelt Best-Nr.
+
+C2           1uF/35V             C0805              keram. C                 X7R-G0805 1,0/50 
+C3           6.8uF/35V           SMC_D              Tantal-Elko              SMD TAN.6,8/35
+C6           1uF/10V             C0805              keram. C                 X7R-G0805 1,0/16
+D1, D3       1N4148              SOD-123 (falsch!)  Standard Diode           1N4148 WS
+D2,D5,D8,D9  B140F               SMA-403D           Schottky-D. (40V, 1A)    B 140 F
+D4           ZMY27               MELF-MLL41         Z-Diode                  SMD ZF 27
+FUSE         SMD-SF 2,0A         1812               PTC                      SMD-SF 2,0A
+IC1          ATTINY84-SSU        SOIC14             Atmel Proz.              ATTINY 84A-SSU
+J1           ISP                 TC2030-MCP-NL                               (falls der Tiny84 in der schaltung progrmmiert 
+                                                                             werden soll: TAG-CONNECT 6pin ISP)
+LED1         GREEN               LED-0805                                    SMD-LED 0805 GN 
+R1,R2,R3,R4  100k                R0805                                       SMD-0805 100K
+R5           10k                 R0805                                       SMD-0805 100K
+R6,R7        47k                 R0805                                       SMD-0805 100K
+R8           1k                  R0805                                       SMD-0805 100K
+S1           EVQP2202W           TACTILE_SWITCH_SMD                          (RS Components 756-1760 - oder Conrad 711761 - 62)
+T3,T4        IRF F7103           SO8                Dual MosFET              IRF 7103
+U1           LM3480IM3-5.0       SOT95P263X110-3N   5V Regler                (Conrad LM3480IM3-5.0/NOPB)
