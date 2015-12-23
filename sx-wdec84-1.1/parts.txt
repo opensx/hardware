@@ -1,0 +1,36 @@
+Partlist
+
+Exported from sx-wdec84.brd at 25.10.15 08:44
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                  Package            Library         
+
+C2       1uF/35V                C0805              rcl                   
+C3       6.8uF/35V              SMC_D              resistor             
+C6       1uF/10V                C0805              rcl             
+D1       1N4148                 SOD-323            adafruit        
+D2       B 140 F                SMA-403D           Ai_DiscreteSemis 
+D3       1N4148                 SOD-323            adafruit       
+D4       ZMY27                  MELF-MLL41         diode           
+D5       B 140 F                SMA-403D           Ai_DiscreteSemis     B 140 F SMD-Schottky-Diode- DO214AC/SMA, 40V, 1A
+D8       B 140 F                SMA-403D           Ai_DiscreteSemis 
+D9       B 140 F                SMA-403D           Ai_DiscreteSemis 
+FUSE     SMD-SF 2,0A (Reichelt) 1812               adafruit        
+IC1      TINY84-SSU             SOIC14             avr-7             
+J1       ISP                    TC2030-MCP-NL      tag-connect          TAG-CONNECT 6pin
+LED1     GREEN - 0805           LED-0805           Ai_LED               (Reichelt SMD-LED 0805 GN  )
+R1       100k                   R0805              rcl             
+R2       100k                   R0805              rcl            
+R3       100k                   R0805              rcl            
+R4       100k                   R0805              rcl           
+R5       10k                    R0805              rcl           
+R6       47k                    R0805              rcl           
+R7       47k                    M0805              rcl            
+R8       1k                     R0805              rcl           
+S1       SMD Switch             TACTILE_SWITCH_SMD Spark_MB              EVQP2202W  (RS756-1760)
+T3       IRF F7103              SO8                zetex          
+T4       IRF F7103              SO8                zetex        
+U1       LM3480IM3-5.0          SOT95P263X110-3N   lm3480           
