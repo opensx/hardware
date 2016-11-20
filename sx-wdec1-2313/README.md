@@ -2,7 +2,7 @@
 
 mehr dazu bei <a href="http://opensx.net/"> OpenSX.net</a> 
 
-(ursprüngliche Version wie in den Zeitschriftenartikels in der Digitalen
+(ursprüngliche Version wie in den Zeitschriftenartikelen in der Digitalen
 Modellbahn beschrieben, siehe  <a href="http://opensx.net/downloads">
  opensx.net/downloads.</a> )
  
