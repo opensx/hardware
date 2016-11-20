@@ -1,0 +1,44 @@
+Partlist
+
+Exported from SXApmV0200.sch at 16.09.16 17:11
+
+Assembly variant: 5V-only !
+
+Part           Value          Package          
+
+20_OR_12V_INP  Jumper in Stellung "20" (der 5V Regler wird direkt aus den 20V vom Bus gespeist)
+A5_RX_JMP      nicht gesetzt (=offen)
+ARDUINO1       ARDUINO_PRO_MINI (5V Version)
+C1             nicht bestückt
+C2             nicht bestückt
+C3             nicht bestückt
+C4             nicht bestückt
+C5             100n (Keramik Cap.)  
+IC1            TSR 0.5-2450 (Reichelt, Traco, 5V Schaltregler, 500mA)       
+IC4            LM393N         DIL08                    
+IC7            nicht bestückt !           
+J1             MA20-1        Buchsenleiste 20 polig, 2.54mm Raster, 8.5mm hoch
+                             (zum Beispiel Reichelt BL 1X20G8 2,54 )
+J2             MA20-1        Buchsenleiste 20 polig, 2.54mm Raster, 8.5mm hoch
+LED1           LED3MM        (rot oder grün)
+Q1             BC557B         TO92-EBC         transistor-pnp     
+Q2             BC557B         TO92-EBC         transistor-pnp    
+R1             nicht bestückt
+R2             7,5k           R-EU_0207/10     
+R3             27k            R-EU_0207/10     
+R4             100            R-EU_0207/10     
+R5             7,5k           R-EU_0207/10     
+R6             7,5k           R-EU_0207/10     
+R7             7,5k           R-EU_0207/10     
+R8             100k           R-EU_0207/10     
+R9             180 (bzw 1.8k, wenn die LED1 vom Typ "low current" (2mA) ist)       
+R10            27k            R-EU_0207/10     
+R11            100k           R-EU_0207/10     
+R12            2,2k           R-EU_0207/10     
+R13            27k            R-EU_0207/10     
+RAW_POW        nicht gesetzt (=offen)           1
+S1             Kurzhubtaster 6x6mm (z.B. Reichelt TASTER 3301)
+U$1..U$5       Nur die vorderen 10 Kontakte werden genutzt (RM 5,08)
+                      (zum Beispiel Reichelt - AKL 101-10)
+X1             DIN-Buchse, 5polig (zB Reichelt MABP 5S oder Reichelt MABPM 5S )
+X2             DIN-Buchse, 5polig (zB Reichelt MABP 5S oder Reichelt MABPM 5S )
