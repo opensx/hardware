@@ -27,7 +27,9 @@ Arduino Pro Mini, der einen 16Mhz Quartz hat, also doppelt so schnell läuft.
  
 Ausserdem ist der SN754410 zwar universell zu verwenden, braucht aber viel 
 Strom. Für Tortoise Weichenantriebe ist der LB1909MC optimal, der keine 5V 
-Spannungsversorgung braucht und einfacher (1 Leitung) anzusteuern ist.
+Spannungsversorgung braucht und einfacher (1 Leitung) anzusteuern ist. Für
+Doppelspulen-Antriebe kann man den IRF7103 (Doppel-)Mosfet verwenden, wie im
+Gleis-Bettungs-Dekoder sx-wdec84-1.2.
   
  
 
