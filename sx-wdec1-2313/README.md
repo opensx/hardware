@@ -6,28 +6,28 @@ mehr dazu bei <a href="http://opensx.net/"> OpenSX.net</a>
 Modellbahn beschrieben, siehe  <a href="http://opensx.net/downloads">
  opensx.net/downloads.</a> )
  
- ##Vorteile:
+##Vorteile:
  
- sehr preiswert, einfache Platine, günstiger Controller ATtiny2313,
- universeller Output Treiber mit SN754410 (entweder Schalten gegen Masse oder
- +10V (oder auch 12V, wenn anderer Regler IC7 verwendet wird).
+sehr preiswert, einfache Platine, günstiger Controller ATtiny2313,
+universeller Output Treiber mit SN754410 (entweder Schalten gegen Masse oder
++10V (oder auch 12V, wenn anderer Regler IC7 verwendet wird).
  
- ##Nachteile:
+##Nachteile:
  
- Die verwendete Software, zusammen mit der niedrigen internen Clock des
-  ATtiny2313 von 8MHz, führt offensichtlich dazu, dass das Schreiben auf den 
-  SX-Bus (was man allerding nur zur Programmierung der Adresse des Dekoders
-  braucht) für einige Zentralen zu langsam ist (Messungen von Frank Keil). Auf
-  jeden Fall funktioniert das Schreiben bei Rautenhaus-Zentralen und bei der
-  alten Trix-Zentrale.
+Die verwendete Software, zusammen mit der niedrigen internen Clock des
+ATtiny2313 von 8MHz, führt offensichtlich dazu, dass das Schreiben auf den 
+SX-Bus (was man allerding nur zur Programmierung der Adresse des Dekoders
+braucht) für einige Zentralen zu langsam ist (Messungen von Frank Keil). Auf
+jeden Fall funktioniert das Schreiben bei Rautenhaus-Zentralen und bei der
+alten Trix-Zentrale.
   
-  Daher (und weil sich Arduinos leicht mit der Arduino-IDE, also ohne speziellen
-  "Programmer", programmieren lassen) verwenden wir jetzt hauptsächlich den 
-  Arduino Pro Mini, der einen 16Mhz Quartz hat, also doppelt so schnell läuft.
-  
-  Ausserdem ist der SN754410 zwar universell zu verwenden, braucht aber viel 
-  Strom. Für Tortoise Weichenantriebe ist der LB1909MC optimal, der keine 5V 
-  Spannungsversorgung braucht und einfacher (1 Leitung) anzusteuern ist.
+Daher (und weil sich Arduinos leicht mit der Arduino-IDE, also ohne speziellen
+"Programmer", programmieren lassen) verwenden wir jetzt hauptsächlich den 
+Arduino Pro Mini, der einen 16Mhz Quartz hat, also doppelt so schnell läuft.
+ 
+Ausserdem ist der SN754410 zwar universell zu verwenden, braucht aber viel 
+Strom. Für Tortoise Weichenantriebe ist der LB1909MC optimal, der keine 5V 
+Spannungsversorgung braucht und einfacher (1 Leitung) anzusteuern ist.
   
  
 
