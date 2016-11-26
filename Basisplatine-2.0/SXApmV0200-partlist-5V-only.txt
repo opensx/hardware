@@ -11,7 +11,7 @@ A5_RX_JMP      nicht gesetzt (=offen)
 ARDUINO1       ARDUINO_PRO_MINI (5V Version)
 C1             nicht bestückt
 C2             nicht bestückt
-C3             nicht bestückt
+C3             10uF / 35V (nicht notwendig, wenn 5V Schaltregler verwendet wird)
 C4             nicht bestückt
 C5             100n (Keramik Cap.)  
 IC1            TSR 0.5-2450 (Reichelt, Traco, 5V Schaltregler, 500mA)       
