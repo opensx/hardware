@@ -9,6 +9,8 @@ Auf der Basisplatine wird NUR EINE REIHE Klemmen verwendet, eine der beiden link
 
 Schaltplan: siehe pdf.
 
+Modul-Gehäuse: Strapubox 524 (das ist die etwas höhere Version) (siehe strapubox.de)
+
 Fotos und HW Design: R. Thamm.
 
 ![OSH Logo](../oshw-logo-100-px.png)
