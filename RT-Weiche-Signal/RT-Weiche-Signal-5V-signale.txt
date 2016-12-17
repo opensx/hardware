@@ -1,0 +1,31 @@
+Partlist
+
+Exported from RT-Weiche-Signal.sch at 17.12.16 20:11
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device       Package     Library  Sheet
+
+C1       0.1nF          C-EUC0805K   C0805K      
+C2       0.1nF          C-EUC0805K   C0805K     
+C3       0.1nF          C-EUC0805K   C0805K      
+IC1      7809DT         7805DT       TO252     
+IC2      nicht bestückt
+J1                      MA20-1       MA20-1      con-lstb 1
+J2                      MA20-1       MA20-1      con-lstb 1
+LB1909-1 LB1909MC       LB1909SOIC10 
+LB1909-2 LB1909MC       LB1909SOIC10 
+R1       180            R-EU_R0805W  R0805W      resistor 1
+R2       180            R-EU_R0805W  R0805W      resistor 1
+R3       180            R-EU_R0805W  R0805W      resistor 1
+R4       180            R-EU_R0805W  R0805W      resistor 1
+R5       180            R-EU_R0805W  R0805W      resistor 1
+R6       180            R-EU_R0805W  R0805W      resistor 1
+R7       180            R-EU_R0805W  R0805W      resistor 1
+R8       180            R-EU_R0805W  R0805W      resistor 1
+R20      4.7k           R-EU_R0805W  R0805W      resistor 1
+SJ1          nicht bestückt    
+SJ2          nicht bestückt    
+SJ4          nicht bestückt    
