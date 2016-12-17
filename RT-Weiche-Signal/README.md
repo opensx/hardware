@@ -1,9 +1,9 @@
 # Weichen(Tortoise) und Signal Treiber Add-on Platine für die Basisplatine
 
-Design Files für die <a href="https://opensx.net/projekte/rt-weiche-signal/"> OpenSX Addon-Platine fuer Weichen/Signal Ansteuerung</a> - mehr dazu bei <a href="http://http://opensx.net/"> OpenSX.net</a> 
+Design Files für die <a href="https://opensx.net/projekte/rt-weiche-signal/"> OpenSX Addon-Platine fuer Weichen/Signal Ansteuerung</a> - mehr dazu bei <a href="http://opensx.net/rt-weiche-signal"> OpenSX.net/RT-Weiche-Signal Dekoder</a> 
 
 
-Sie ermöglicht das Ansteuern von 4 Tortoise Antrieben (mit LB1909MC Treibern) und 2 Lichtsignalen mit je 4 Begriffen, entweder 12/15V mit gemeinsamer Anode (ULN2803 Treiber) oder mit gemeinsamer Kathode (UDN2982 Treiber) oder direkt als LED Treiber mit 8 Vorwiderständen.
+Sie ermöglicht das Ansteuern von 4 Tortoise Antrieben (mit LB1909MC Treibern) und 2 Lichtsignalen mit je 4 Begriffen, entweder 12/15V mit gemeinsamer Anode (ULN2803 Treiber) oder mit gemeinsamer Kathode (A2982 Treiber) oder direkt als LED Treiber mit 8 Vorwiderständen.
 
 Für die Weichenmotoren ist eine separate Spannung vorgesehen (IC1), sie kann zum Beispiel 9V betragen.
 
