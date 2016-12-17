@@ -1,0 +1,8 @@
+Fuses Settings für ATtiny2313-sx-wdec1-2313
+
+E4-99-FF  
+heisst:
+BOD =100
+Int.Osz. 8Mhz
+SPIEnabel
+EESave
