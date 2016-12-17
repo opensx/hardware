@@ -1,6 +1,6 @@
 # Funktionsdekoder für Selectrix mit ATtiny45
 
-mehr dazu auch unter <a href="http://opensx.net/projekte/fundec45"> OpenSX.net, Project "funcdec45"</a> 
+mehr dazu unter <a href="http://opensx.net/projekte/funktionsdekoder/sx-fundec45"> OpenSX.net - Projekt "funcdec45"</a> 
 
 
 ![OSH Logo](../oshw-logo-100-px.png)
