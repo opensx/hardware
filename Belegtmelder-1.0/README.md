@@ -7,6 +7,8 @@ Auf der Basisplatine wird NUR EINE REIHE Klemmen verwendet, eine der beiden link
 
 ![Foto Belegtmelder Aufsatzplatine](belegtmelder-piggyback.jpg)  (siehe auch das größere Foto wegen des Doppeldioden-Aufbaus)
 
+Gerber-Files: SX-Belegtmelder V01.00.zip
+
 Schaltplan: siehe pdf.
 
 Modul-Gehäuse: Strapubox 524 (das ist die etwas höhere Version) (siehe strapubox.de)
