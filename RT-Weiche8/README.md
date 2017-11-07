@@ -1,4 +1,4 @@
-# Weichen-Ansteuerungs Add-on Platine für die Basisplatine "RT-Weiche8"
+# "RT-Weiche8" Add-on Platine (für eine der SX- oder LocoNet- Basisplatinen) 
 
 Sie ermöglicht das Ansteuern von 8 Tortoise Antrieben (mit LB1909MC Treibern).
 
