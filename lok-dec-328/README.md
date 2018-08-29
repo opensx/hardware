@@ -1,6 +1,7 @@
 # Arduino Lok-Decoder mit ATmega328
 Design Files für die OpenSX Hardware, siehe <a href="http://opensx.net"> opensx.net </a>
 
+Rev. 3, siehe sx-lok-dec3.sch.pdf : hier wurden 2 Widerstände an den Eingängen D2 und D3 nach Masse hinzugefügt - nur für Selectrix benötigt, da sonst die "0" Spannung nicht immer richtig erkannt wird.
 
 lizensiert nach <a href="http://www.gnu.org/licenses/gpl-3.0.de.html">GPLv3</a>)
 
